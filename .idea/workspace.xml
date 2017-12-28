@@ -1,120 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bb3d12a-6aff-4c72-a922-0566781e00d4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖01_商品页.mkm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖01_商品页.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖01_商品页_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖02_商品页_公告及优惠信息.mkm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖02_商品页_公告及优惠信息.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖02_商品页_公告及优惠信息_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖03_商品页_购物车详情.mkm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖03_商品页_购物车详情.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖03_商品页_购物车详情_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖04_商品页面_商品详情.mkm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖04_商品页面_商品详情.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖04_商品页面_商品详情_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖05_评价页.mkm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖05_评价页.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖05_评价页_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖06_商家页.mkm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖06_商家页.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/PSD/外卖06_商家页_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/add_circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/arrow_lift.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/check_circle.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/close.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/favorite.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/keyboard_arrow_right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/remove_circle_outline.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/shopping_cart.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/thumb_down.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/SVG/thumb_up.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/icon_@2x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/icon_@3x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_24px_@2x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_24px_@3x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_36px_@2x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_36px_@3x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_48px_@2x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/PSD/star_48px_@3x.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/brand@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/brand@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/bulletin@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/bulletin@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_1@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_2@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_3@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/decrease_4@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_1@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_2@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_3@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/discount_4@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_1@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_2@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_3@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/guarantee_4@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_1@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_2@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_3@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/invoice_4@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_1@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_2@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_3@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/special_4@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_half@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_half@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_off@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_off@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_on@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star24_on@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_half@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_half@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_off@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_off@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_on@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star36_on@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_half@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_half@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_off@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_off@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_on@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/img/star48_on@3x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖01_商品页.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖02_商品页_公告及优惠信息.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖03_商品页_购物车详情.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖04_商品页面_商品详情.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖05_评价页.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/外卖06_商家页.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖01_商品页_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖02_商品页_公告及优惠信息_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖03_商品页_购物车详情_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖04_商品页面_商品详情_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖05_评价页_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resource/标注/外卖06_商家页_spec.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/assets/logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="7bb3d12a-6aff-4c72-a922-0566781e00d4" name="Default" comment="" />
     <ignored path="shell.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -161,8 +48,8 @@
       <file leaf-file-name="App.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="242">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#484#524#0" expanded="true" />
               </folding>
@@ -302,10 +189,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="270" />
+    <option name="y" value="32" />
+    <option name="width" value="1414" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -593,6 +480,7 @@
       <workItem from="1491987053372" duration="2796000" />
       <workItem from="1492049628465" duration="192000" />
       <workItem from="1492744530435" duration="722000" />
+      <workItem from="1514430084140" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="vue2.0重构">
       <created>1491991515695</created>
@@ -605,7 +493,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250166000" />
+    <option name="totallyTimeSpent" value="250231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -617,19 +505,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="270" y="32" width="1414" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11550633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11499272" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -641,6 +528,7 @@
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -774,31 +662,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/外卖06_商家页.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/外卖04_商品页面_商品详情.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/标注/外卖01_商品页_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/标注/外卖02_商品页_公告及优惠信息_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/标注/外卖04_商品页面_商品详情_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/外卖06_商家页.jpg" />
+    <entry file="file://$PROJECT_DIR$/resource/外卖04_商品页面_商品详情.jpg" />
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖01_商品页_spec.png" />
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖02_商品页_公告及优惠信息_spec.png" />
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖04_商品页面_商品详情_spec.png" />
     <entry file="file://$PROJECT_DIR$/src/components/cartcontrol/cartcontrol.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -849,16 +717,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/标注/外卖03_商品页_购物车详情_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/标注/外卖05_评价页_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖03_商品页_购物车详情_spec.png" />
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖05_评价页_spec.png" />
     <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -875,11 +735,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/标注/外卖06_商家页_spec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/标注/外卖06_商家页_spec.png" />
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1033,8 +889,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        <state relative-caret-position="242">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="e#484#524#0" expanded="true" />
           </folding>
